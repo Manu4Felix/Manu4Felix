@@ -17,12 +17,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manu4Felix&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb)
-
----
-
 ## 🏆 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manu4Felix&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manu4Felix&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb)
