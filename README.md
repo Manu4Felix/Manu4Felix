@@ -1,4 +1,8 @@
-# Hi there 👋
+# Hey! I’m Manuel Félix 👋
+
+<p align="center">
+  <img src="assets/space-invaders-banner.svg" alt="Space Invaders banner" />
+</p>
 
 ## ⚙️ Skills & Technologies
 
@@ -15,30 +19,57 @@
 ![IntelliJ Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<!-- Extras recomendados -->
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
-<!-- GITHUB STATS -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Manu4Felix&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Manu4Felix&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Manu4Felix&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
-</picture>
+<p align="center">
+  <img src="assets/pacman-skillbar.svg" width="100%" alt="Pac-Man skillbar" />
+</p>
 
-<!-- TOP LANGS -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu4Felix&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu4Felix&layout=compact&bg_color=00000000&border_color=22222288&text_color=222"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu4Felix&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
-</picture>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manu4Felix&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu4Felix&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs"/>
+</p>
+
+<!-- opcional: racha -->
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Manu4Felix&hide_border=true&background=FFFFFF00&ring=029691&fire=E4007C&currStreakNum=bbbbbb&dates=8b949e" alt="Streak Stats"/>
+</p>
+
+---
+
+## 🏆 Featured
+
+- 🔐 **BCNSoluciona** – Escaneo de seguridad y reporting automatizado.
+- ⚙️ **Impacta Automation** – Flujos Make + GHL + APIs (facturación y comunidad auto).
+- 🌮 **TAKOOL** – Web, branding y campañas (Sevilla).
+
+---
+
+## 🎮 Mini-Game
+
+<p align="center">
+  <a href="https://Manu4Felix.github.io/Manu4Felix/game/pacman-mini/" target="_blank">▶️ Jugar al Pac-Mini</a>
+</p>
+
+> ⤴️ 100% vanilla HTML + JS. Abre el enlace, flechas para moverte y ¡a comer puntos!
+
+---
+
+## 🐍 Commit Snake
+
+![snake](https://raw.githubusercontent.com/Manu4Felix/Manu4Felix/output/snake.svg)
+
+---
+
+## 📫 Contact
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
